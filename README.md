@@ -7,3 +7,7 @@ We only support basic arithmetic operations
 ## Contributes
 Ravindra Akula
 Sandeep
+
+## How to contribute
+Use the below command to build the project
+    ./gradlew clean build
